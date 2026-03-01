@@ -1,0 +1,92 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1771745125
+V6]WAzj;U9FPLdF6Z1AFnX2
+Z2 04 11 4 work and_gate_tb fast 0
+=1-34735add7b49-699aaf65-44-24c0
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2024.1;79
+R1
+T_opt1
+!s110 1771745518
+V44K9;0NB7VAnRE8ZUFzaJ2
+R2
+=1-34735add7b49-699ab0ed-2e9-16dc
+R0
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work work +acc
+R6
+n@_opt1
+R7
+vand_gate
+2C:/lab1_DLD/questa/and_gate.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1771744906
+!i10b 1
+!s100 L8ak>XRQ<<U?:12=IKU0>3
+IQ<nKYQi^TW:B1W=[KN5iR2
+S1
+Z10 dC:/lab1_DLD/questa
+w1771570678
+8C:/lab1_DLD/questa/and_gate.sv
+FC:/lab1_DLD/questa/and_gate.sv
+!i122 0
+L0 1 9
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z13 !s108 1771744906.000000
+!s107 C:/lab1_DLD/questa/and_gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab1_DLD/questa/and_gate.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vand_gate_tb
+2C:/lab1_DLD/questa/and_gate_tb.sv
+R8
+R9
+!i10b 1
+!s100 ZX0`XG2Bi_91Y;[5;B_D92
+Ij9heT6bjzB?gB7hB8@Ji=2
+S1
+R10
+w1771744748
+8C:/lab1_DLD/questa/and_gate_tb.sv
+FC:/lab1_DLD/questa/and_gate_tb.sv
+!i122 1
+L0 1 31
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/lab1_DLD/questa/and_gate_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab1_DLD/questa/and_gate_tb.sv|
+!i113 0
+R14
+R6

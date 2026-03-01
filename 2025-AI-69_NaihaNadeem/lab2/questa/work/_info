@@ -1,0 +1,127 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1772130966
+VJlo91Z>jNaGDGnMm2?W`20
+04 13 4 work full_adder_tb fast 0
+=1-34735add7b49-69a09296-35-4290
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+R1
+vfull_adder
+2C:/lab2_dld/New folder/module full_adder .sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1772131591
+!i10b 1
+!s100 PlaSJ5RM@836[0n3N@J`i0
+IFZl7[]AYW5^;BXlE=`zaA2
+S1
+Z5 dC:/lab2_dld
+w1772130499
+8C:/lab2_dld/New folder/module full_adder .sv
+FC:/lab2_dld/New folder/module full_adder .sv
+!i122 7
+L0 1 7
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.1;79
+r1
+!s85 0
+31
+!s108 1772131590.000000
+!s107 C:/lab2_dld/New folder/module full_adder .sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab2_dld/New folder/module full_adder .sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfull_adder_tb
+2C:/lab2_dld/New folder/module full_adder_tb.sv
+R3
+R4
+!i10b 1
+!s100 eMF23BVclX4dAV7K@3oY=2
+INnGLfmI>@WRkJY5Ez?cc_1
+S1
+R5
+w1772130638
+8C:/lab2_dld/New folder/module full_adder_tb.sv
+FC:/lab2_dld/New folder/module full_adder_tb.sv
+!i122 8
+L0 1 36
+R6
+R7
+r1
+!s85 0
+31
+Z9 !s108 1772131591.000000
+!s107 C:/lab2_dld/New folder/module full_adder_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab2_dld/New folder/module full_adder_tb.sv|
+!i113 0
+R8
+R2
+vripple_carry
+2C:/lab2_dld/New folder/module ripple_carry.sv
+R3
+R4
+!i10b 1
+!s100 b3a=Azc2Wl3DMOA3j:YR42
+I_NPLj;EQC3`ja04`YiVoc0
+S1
+R5
+w1772130600
+8C:/lab2_dld/New folder/module ripple_carry.sv
+FC:/lab2_dld/New folder/module ripple_carry.sv
+!i122 9
+L0 1 29
+R6
+R7
+r1
+!s85 0
+31
+R9
+!s107 C:/lab2_dld/New folder/module ripple_carry.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab2_dld/New folder/module ripple_carry.sv|
+!i113 0
+R8
+R2
+vripple_carry_tb
+2C:/lab2_dld/New folder/module ripple_carry_tb.sv
+R3
+R4
+!i10b 1
+!s100 6Pc^EiZ4AB<haiW_gU7cW3
+I`c``NKA]C@L^e30ROXNGn3
+S1
+R5
+w1772130647
+8C:/lab2_dld/New folder/module ripple_carry_tb.sv
+FC:/lab2_dld/New folder/module ripple_carry_tb.sv
+!i122 10
+L0 1 30
+R6
+R7
+r1
+!s85 0
+31
+R9
+!s107 C:/lab2_dld/New folder/module ripple_carry_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab2_dld/New folder/module ripple_carry_tb.sv|
+!i113 0
+R8
+R2
