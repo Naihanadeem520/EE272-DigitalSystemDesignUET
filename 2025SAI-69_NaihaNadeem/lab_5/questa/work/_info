@@ -1,0 +1,285 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+!s12c _opt2
+R1
+!s12c _opt1
+R1
+R0
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/python/Digital Logic and Design/New folder/lab_5/New folder (5)
+T_opt
+!s110 1774445180
+V3DB1Q;Z0O710YM5j7>bO93
+04 12 4 work ripple_adder fast 0
+=1-34735add7b49-69c3e27b-2e9-2c4c
+R1
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+Z7 tCvgOpt 0
+n@_opt
+Z8 OL;O;2024.1;79
+T_opt1
+!s110 1774444972
+V0`S7llAmG?iolii^`JAVE1
+Z9 04 13 4 work tb_multiplier fast 0
+=1-34735add7b49-69c3e1ab-295-3084
+R1
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work work
+R7
+n@_opt1
+R8
+R2
+T_opt2
+!s110 1774444985
+VVMUZ:HGz2QHVG8RoP393a0
+R9
+=1-34735add7b49-69c3e1b9-7c-540
+R1
+R3
+R4
+R5
+R6
+R7
+n@_opt2
+R8
+R2
+vdecoder_sel
+2C:/lab_5_dld/SRC/decoder_sel.sv
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z11 !s110 1774444944
+!i10b 1
+!s100 AAhLGlSN_[GkFEa14i@;O2
+Ij0@QIdQYz8D<TzdjSFYJk0
+S1
+Z12 dC:/lab_5_dld/questa
+Z13 w1774444370
+8C:/lab_5_dld/SRC/decoder_sel.sv
+FC:/lab_5_dld/SRC/decoder_sel.sv
+!i122 9
+L0 1 18
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z16 !s108 1774444944.000000
+!s107 C:/lab_5_dld/SRC/decoder_sel.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/decoder_sel.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vfull_adder
+Z18 2C:/lab_5_dld/SRC/ripple_carry_adder.sv
+R10
+Z19 !s110 1774444945
+!i10b 1
+!s100 j<lA1hIa?z3Obhj^_T_WF3
+IkJ]R=e_NfJM^XPLYN64^f2
+S1
+R12
+R13
+Z20 8C:/lab_5_dld/SRC/ripple_carry_adder.sv
+Z21 FC:/lab_5_dld/SRC/ripple_carry_adder.sv
+!i122 12
+L0 1 6
+R14
+R15
+r1
+!s85 0
+31
+Z22 !s108 1774444945.000000
+Z23 !s107 C:/lab_5_dld/SRC/ripple_carry_adder.sv|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/ripple_carry_adder.sv|
+!i113 0
+R17
+R7
+vlog_shifter
+2C:/lab_5_dld/SRC/log_shifter.sv
+R10
+R19
+!i10b 1
+!s100 mKH8PG6;@CXB^]?le?RZK0
+I866RPcF0>>oVY0d76H8K92
+S1
+R12
+R13
+8C:/lab_5_dld/SRC/log_shifter.sv
+FC:/lab_5_dld/SRC/log_shifter.sv
+!i122 10
+L0 1 22
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 C:/lab_5_dld/SRC/log_shifter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/log_shifter.sv|
+!i113 0
+R17
+R7
+vmultiplier
+2C:/lab_5_dld/SRC/const_multiplier_3.sv
+R10
+R11
+!i10b 1
+!s100 N:L?<AAiDICQO^@hZ[gWP0
+IdEXodR_XIfHW1nmU^cf_]1
+S1
+R12
+R13
+8C:/lab_5_dld/SRC/const_multiplier_3.sv
+FC:/lab_5_dld/SRC/const_multiplier_3.sv
+!i122 8
+L0 1 24
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 C:/lab_5_dld/SRC/const_multiplier_3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/const_multiplier_3.sv|
+!i113 0
+R17
+R7
+vmux2to1
+2C:/lab_5_dld/SRC/mux2to1.sv
+R10
+R19
+!i10b 1
+!s100 <AzQ;z1ZL@^STIbCAB4`U2
+IU9AB8Y^M^m^<hg3XXTZTA2
+S1
+R12
+R13
+8C:/lab_5_dld/SRC/mux2to1.sv
+FC:/lab_5_dld/SRC/mux2to1.sv
+!i122 11
+L0 1 10
+R14
+R15
+r1
+!s85 0
+31
+R22
+!s107 C:/lab_5_dld/SRC/mux2to1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/mux2to1.sv|
+!i113 0
+R17
+R7
+vripple_adder
+R18
+R10
+R19
+!i10b 1
+!s100 46j<e3nPN4V3]S^n]eg6[2
+IV18QATl2HTS@Ymo5I[ZAP2
+S1
+R12
+R13
+R20
+R21
+!i122 12
+L0 8 12
+R14
+R15
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 0
+R17
+R7
+vseven_seg_decoder
+2C:/lab_5_dld/SRC/seven_seg_decoder.sv
+R10
+R19
+!i10b 1
+!s100 jQT;EcFWI^PBzR0^]]R0]3
+IBg[g>UK3>IEY;c4PaizI02
+S1
+R12
+R13
+8C:/lab_5_dld/SRC/seven_seg_decoder.sv
+FC:/lab_5_dld/SRC/seven_seg_decoder.sv
+!i122 13
+L0 1 26
+R14
+R15
+r1
+!s85 0
+31
+R22
+!s107 C:/lab_5_dld/SRC/seven_seg_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/seven_seg_decoder.sv|
+!i113 0
+R17
+R7
+vtb_multiplier
+2C:/lab_5_dld/SIM/tb_const_multiplier_3.sv
+R10
+Z25 !s110 1774444946
+!i10b 1
+!s100 WL5O[N>M9?03ijZzJ7Y[D3
+IK]HDMd;>F0=eDJY92k8ok3
+S1
+R12
+R13
+8C:/lab_5_dld/SIM/tb_const_multiplier_3.sv
+FC:/lab_5_dld/SIM/tb_const_multiplier_3.sv
+!i122 15
+L0 1 21
+R14
+R15
+r1
+!s85 0
+31
+!s108 1774444946.000000
+!s107 C:/lab_5_dld/SIM/tb_const_multiplier_3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SIM/tb_const_multiplier_3.sv|
+!i113 0
+R17
+R7
+vtop_module
+2C:/lab_5_dld/SRC/top.sv
+R10
+R25
+!i10b 1
+!s100 _VB;dD8IKHk=<B@iib>Q73
+I:o2nXRD7K]9P543IC=^;k1
+S1
+R12
+R13
+8C:/lab_5_dld/SRC/top.sv
+FC:/lab_5_dld/SRC/top.sv
+!i122 14
+L0 1 20
+R14
+R15
+r1
+!s85 0
+31
+R22
+!s107 C:/lab_5_dld/SRC/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/lab_5_dld/SRC/top.sv|
+!i113 0
+R17
+R7
