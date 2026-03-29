@@ -1,0 +1,201 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1774803290
+VcQb_Xc53jA3lf;;`GePYP0
+04 10 4 work tb_counter fast 0
+=1-34735add7b49-69c95958-245-7d4
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vanode_decoder
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/anode_decoder.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1774803239
+!i10b 1
+!s100 ^KkUVTKL=dg@33SmEMTzO0
+IS>HSIdEoK@N[<;Q?ISl>:3
+S1
+Z4 dC:/2025SAI-69_NaihaNadeem/Lab6/questa
+Z5 w1774801442
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/anode_decoder.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/anode_decoder.sv
+!i122 1
+L0 1 15
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z8 !s108 1774803239.000000
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/anode_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/anode_decoder.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vconfigurable_counter
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/configurable_counter.sv
+R2
+R3
+!i10b 1
+!s100 8UR:79<zbTonzc4TnXdRz0
+I<Q7^^1m1GG3]RPBm2E87O1
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/configurable_counter.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/configurable_counter.sv
+!i122 2
+L0 1 29
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/configurable_counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/configurable_counter.sv|
+!i113 0
+R9
+R1
+vdisplay_mux
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/display_mux.sv
+R2
+Z10 !s110 1774803240
+!i10b 1
+!s100 z:2GcZde5NTJZ0P<VJb:^3
+I[kX^zY_i0eTAzQ]=dm_MC1
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/display_mux.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/display_mux.sv
+!i122 3
+L0 1 16
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/display_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/display_mux.sv|
+!i113 0
+R9
+R1
+vfreq_divider
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/freq_divider.sv
+R2
+R10
+!i10b 1
+!s100 9Bn9`6aLJZHZ48kK9U9l=0
+Iimb1j2OVK<UU07DY2aONh1
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/freq_divider.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/freq_divider.sv
+!i122 4
+L0 1 20
+R6
+R7
+r1
+!s85 0
+31
+Z11 !s108 1774803240.000000
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/freq_divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/freq_divider.sv|
+!i113 0
+R9
+R1
+vhex7seg_decoder
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/hex7seg_decoder.sv
+R2
+R10
+!i10b 1
+!s100 hS6U1zPEc2N:0;_LSH?O?1
+Iki1@FDm?5VUES=LhcEV_?2
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/hex7seg_decoder.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/hex7seg_decoder.sv
+!i122 5
+L0 1 22
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/hex7seg_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/hex7seg_decoder.sv|
+!i113 0
+R9
+R1
+vtb_counter
+2C:/2025SAI-69_NaihaNadeem/Lab6/sim/tb_counter.sv
+R2
+R3
+!i10b 1
+!s100 G:787a5TA6B^9XkLkR]Dg3
+ImlQJj:0lTVNTnDI0W]OV83
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/sim/tb_counter.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/sim/tb_counter.sv
+!i122 0
+L0 3 40
+R6
+R7
+r1
+!s85 0
+31
+!s108 1774803238.000000
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/sim/tb_counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/sim/tb_counter.sv|
+!i113 0
+R9
+R1
+vtop
+2C:/2025SAI-69_NaihaNadeem/Lab6/src/top.sv
+R2
+R10
+!i10b 1
+!s100 jBNFc>X?Wm]J<S57RD84G3
+Ig6C]dF:8@Ll04N[GTf22f1
+S1
+R4
+R5
+8C:/2025SAI-69_NaihaNadeem/Lab6/src/top.sv
+FC:/2025SAI-69_NaihaNadeem/Lab6/src/top.sv
+!i122 6
+L0 1 65
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:/2025SAI-69_NaihaNadeem/Lab6/src/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab6/src/top.sv|
+!i113 0
+R9
+R1
