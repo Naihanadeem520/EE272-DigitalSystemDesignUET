@@ -1,0 +1,267 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/User/Downloads/lab_8/Questa
+T_opt
+!s110 1778260320
+VkjIjb?523cQlATh0moK@=0
+Z2 04 15 4 work tb_lab_complete fast 0
+=1-dc9009d11af0-69fe195f-1d5-5ab8
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+Z7 tCvgOpt 0
+n@_opt
+Z8 OL;O;2024.1;79
+R1
+T_opt1
+!s110 1778432553
+VjUNgYRlZKn@C?6X_<oJOT1
+R2
+=1-34735add7b49-6a00ba28-2e2-2f50
+R0
+R3
+R4
+R5
+R6
+R7
+n@_opt1
+R8
+va7top
+Z9 2C:/2025SAI-69_NaihaNadeem/Lab8/Src/lab_complete.sv
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z11 !s110 1778432531
+!i10b 1
+!s100 _9YBjf_U4[oU65I2J3oda3
+InaN7gaRS0Rd8Ge12jGH[M1
+S1
+Z12 dC:/2025SAI-69_NaihaNadeem/Lab8/Questa
+Z13 w1778432304
+Z14 8C:/2025SAI-69_NaihaNadeem/Lab8/Src/lab_complete.sv
+Z15 FC:/2025SAI-69_NaihaNadeem/Lab8/Src/lab_complete.sv
+!i122 6
+L0 236 30
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+Z17 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z18 !s108 1778432531.000000
+Z19 !s107 C:/2025SAI-69_NaihaNadeem/Lab8/Src/lab_complete.sv|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab8/Src/lab_complete.sv|
+!i113 0
+Z21 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vdac
+R9
+R10
+R11
+!i10b 1
+!s100 Glz2KTVTPczCZdJg5mGQf2
+I0gYTOK2Y:4Y2QFJ9KNMPT0
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 82 23
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vdebouncer
+R9
+R10
+R11
+!i10b 1
+!s100 02=`ePHi^?NDNTR4[2Z]R2
+IQzAXKOeKY=G<;G1]Pz_g30
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 37 27
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vedge_detector
+R9
+R10
+R11
+!i10b 1
+!s100 :Vc?LbJ>8YY<84a??hEzn3
+IedfA2gg2XoLM:QzKPi0Ih3
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 67 12
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vsample_pulse_gen
+R9
+R10
+R11
+!i10b 1
+!s100 M4Aa@T0i<OdiBZLIX3`Zd1
+Il65ohGa>Fi6=2<_H3l_dV0
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 17 18
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vsq_wave_gen
+R9
+R10
+R11
+!i10b 1
+!s100 `0A_GZnQ8^Gh?cn:P7b5A3
+I5GZkdZ=Oi2^3Dl69:;Q4o2
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 108 29
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vsynchronizer
+R9
+R10
+R11
+!i10b 1
+!s100 IChAPzMW=?N`70TnREUn_0
+Ijagz8k`nDB0zZdngKiPBU3
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 2 12
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
+vtb_lab_complete
+2C:/2025SAI-69_NaihaNadeem/Lab8/Sim/tb_lab_complete .sv
+R10
+!s110 1778432532
+!i10b 1
+!s100 _0T`ih2_eRRVhEV45R9Jd3
+IY`5YE4KQ97mPKTZHOeXL51
+S1
+R12
+R13
+8C:/2025SAI-69_NaihaNadeem/Lab8/Sim/tb_lab_complete .sv
+FC:/2025SAI-69_NaihaNadeem/Lab8/Sim/tb_lab_complete .sv
+!i122 7
+L0 3 89
+R16
+R17
+r1
+!s85 0
+31
+!s108 1778432532.000000
+!s107 C:/2025SAI-69_NaihaNadeem/Lab8/Sim/tb_lab_complete .sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/2025SAI-69_NaihaNadeem/Lab8/Sim/tb_lab_complete .sv|
+!i113 0
+R21
+R7
+vtop_btn_parser
+R9
+R10
+R11
+!i10b 1
+!s100 A[@L;Ao_QSQQkdX;?H10S1
+I`BVIE:?ILaC:NB5dUNkWO3
+S1
+R12
+R13
+R14
+R15
+!i122 6
+L0 140 94
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R7
